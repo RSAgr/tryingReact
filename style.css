@@ -33,6 +33,7 @@
 
 .border {
     border: 1.5px solid transparent;
+    cursor: pointer;
 }
 
 .border:hover {
@@ -62,6 +63,7 @@
     height:40px;
     border-radius: 4px;
     align-items: left;
+    cursor: pointer;
 }
 
 .nav-search:hover {
@@ -170,6 +172,7 @@ span{
 .hero-message a {
     color: #007185;
     padding: 5px;
+    cursor: pointer;
 }
 
 .shop-section{
