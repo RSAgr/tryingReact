@@ -1,0 +1,1 @@
+alert("Hi, it a clown for educational purpose");
